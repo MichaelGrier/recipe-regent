@@ -8,3 +8,4 @@ Recipe regent is a recipe-search application built using the forkify-api.
 - Passing data between ES6 classes
 - Saving and retrieving data from local storage
 - Using Babel to compile ES6 code
+- Implementing the MVC design pattern in a front end javascript environment
